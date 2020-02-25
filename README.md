@@ -18,5 +18,5 @@
 https://drive.google.com/drive/folders/1VcQNGhLGDeyjtXs1aD-V4xFc5lUNeBnS?usp=sharing
 
 Рабочее приложение здесь:
-<здесь завтра будет ссылка>
+http://193.176.78.16:5000/
 
